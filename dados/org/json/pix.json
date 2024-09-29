@@ -1,0 +1,21 @@
+{
+  "groups": {
+    "120363025918861132@g.us": [
+      {
+        "identificacao": "lotus4",
+        "Nome": "teste",
+        "Chave": "botesdeath@gmail.com",
+        "Tipo": "EMAIL",
+        "sender": "5521995400244@s.whatsapp.net"
+      },
+      {
+        "identificacao": "lotus2",
+        "Nome": "teste",
+        "Chave": "botesdeath@gmail.com",
+        "Tipo": "EMAIL",
+        "sender": "5521972442253@s.whatsapp.net"
+      }
+    ]
+  },
+  "global": []
+}
